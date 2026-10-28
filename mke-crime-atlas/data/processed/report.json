@@ -1,0 +1,12 @@
+{
+  "rows_in": 112828,
+  "duplicate_cases": 1,
+  "unparseable_dates": 0,
+  "future_dates": 1,
+  "missing_coordinates": 807,
+  "exact_midnight_times": 7054,
+  "rows_out": 112826,
+  "no_neighborhood": 967,
+  "built": "2026-10-28",
+  "latest_incident": "2026-10-27"
+}

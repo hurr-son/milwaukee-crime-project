@@ -1,0 +1,12 @@
+[project]
+name = "mke-crime-atlas"
+version = "0.1.0"
+description = "Interactive map of reported crime in Milwaukee from the city's WIBR open data"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ruff]
+line-length = 120
